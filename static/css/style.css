@@ -1,0 +1,32 @@
+h1 {
+    text-align:center
+}
+
+h2 {
+    background-color: darkturquoise;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+h4 {
+    background-color: aqua;
+    margin-left: 150px;
+}
+
+p {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+img {
+    margin-left: 50px;
+    margin-right: 500px;
+}
+
+.chapter {
+    width: 1666px;
+    height: 450px;
+    padding: 2px;
+
+}
+
